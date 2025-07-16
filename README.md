@@ -30,7 +30,7 @@ A Google Colab-based tool to extract **Mapillary street-level images** using a l
 
 The input file must be `.xlsx` and contain:
 
-| ID | X (Longitude) | Y (Latitude) |
+| ID | X | Y  |
 |----|---------------|--------------|
 | 1  | 106.9023591   | -6.3759857   |
 | 2  | 106.8292590   | -6.3672050   |
